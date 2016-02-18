@@ -1,0 +1,14 @@
+D:\CursosBaltiere\BookStore\BookStore.Data\bin\Debug\BookStore.Data.dll.config
+D:\CursosBaltiere\BookStore\BookStore.Data\bin\Debug\BookStore.Data.dll
+D:\CursosBaltiere\BookStore\BookStore.Data\bin\Debug\BookStore.Data.pdb
+D:\CursosBaltiere\BookStore\BookStore.Data\bin\Debug\BookStore.Domain.dll
+D:\CursosBaltiere\BookStore\BookStore.Data\bin\Debug\EntityFramework.dll
+D:\CursosBaltiere\BookStore\BookStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\CursosBaltiere\BookStore\BookStore.Data\bin\Debug\MySql.Data.dll
+D:\CursosBaltiere\BookStore\BookStore.Data\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\CursosBaltiere\BookStore\BookStore.Data\bin\Debug\BookStore.Domain.pdb
+D:\CursosBaltiere\BookStore\BookStore.Data\bin\Debug\EntityFramework.xml
+D:\CursosBaltiere\BookStore\BookStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\CursosBaltiere\BookStore\BookStore.Data\obj\Debug\BookStore.Data.csprojResolveAssemblyReference.cache
+D:\CursosBaltiere\BookStore\BookStore.Data\obj\Debug\BookStore.Data.dll
+D:\CursosBaltiere\BookStore\BookStore.Data\obj\Debug\BookStore.Data.pdb

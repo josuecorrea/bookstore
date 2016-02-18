@@ -1,0 +1,4 @@
+D:\CursosBaltiere\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.dll
+D:\CursosBaltiere\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.pdb
+D:\CursosBaltiere\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.dll
+D:\CursosBaltiere\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.pdb

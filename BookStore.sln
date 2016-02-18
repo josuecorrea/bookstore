@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore.Domain", "BookStore.Domain\BookStore.Domain.csproj", "{138D943A-4BD0-4122-BB27-D46F7FAFBBE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore.Data", "BookStore.Data\BookStore.Data.csproj", "{6B2DB4F5-F0CB-41A8-B8B2-77618EA3E106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore.Utils", "BookStore.Utils\BookStore.Utils.csproj", "{CAAFD68D-EB66-480A-B02E-870C66708023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore.Api", "BookStore.Api\BookStore.Api.csproj", "{A84C9F5A-887C-429B-BE38-3E2D2D550AB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{138D943A-4BD0-4122-BB27-D46F7FAFBBE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138D943A-4BD0-4122-BB27-D46F7FAFBBE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138D943A-4BD0-4122-BB27-D46F7FAFBBE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138D943A-4BD0-4122-BB27-D46F7FAFBBE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B2DB4F5-F0CB-41A8-B8B2-77618EA3E106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2DB4F5-F0CB-41A8-B8B2-77618EA3E106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2DB4F5-F0CB-41A8-B8B2-77618EA3E106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2DB4F5-F0CB-41A8-B8B2-77618EA3E106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAAFD68D-EB66-480A-B02E-870C66708023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAAFD68D-EB66-480A-B02E-870C66708023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAAFD68D-EB66-480A-B02E-870C66708023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAFD68D-EB66-480A-B02E-870C66708023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A84C9F5A-887C-429B-BE38-3E2D2D550AB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84C9F5A-887C-429B-BE38-3E2D2D550AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84C9F5A-887C-429B-BE38-3E2D2D550AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84C9F5A-887C-429B-BE38-3E2D2D550AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://bookstoreapi.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BookStore.Api\\BookStore.Api.csproj
+		SccProjectName1 = BookStore.Api
+		SccLocalPath1 = BookStore.Api
+		SccProjectUniqueName2 = BookStore.Data\\BookStore.Data.csproj
+		SccProjectName2 = BookStore.Data
+		SccLocalPath2 = BookStore.Data
+		SccProjectUniqueName3 = BookStore.Domain\\BookStore.Domain.csproj
+		SccProjectName3 = BookStore.Domain
+		SccLocalPath3 = BookStore.Domain
+		SccProjectUniqueName4 = BookStore.Utils\\BookStore.Utils.csproj
+		SccProjectName4 = BookStore.Utils
+		SccLocalPath4 = BookStore.Utils
+	EndGlobalSection
+EndGlobal
